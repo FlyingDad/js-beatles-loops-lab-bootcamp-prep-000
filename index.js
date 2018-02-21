@@ -1,4 +1,4 @@
-function johnLennonFacts(musicians, instruments){
+function theBeatlesPlay(musicians, instruments){
   var strings = [];
   
   for(var i = 0; i < musicians.length; i++){
